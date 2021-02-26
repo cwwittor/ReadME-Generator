@@ -36,3 +36,5 @@
   Email: cwwittor@ncsu.edu
   Github: cwwittor
 
+  ## Link to video
+  https://streamable.com/tz48ob
